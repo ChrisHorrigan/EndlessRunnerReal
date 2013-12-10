@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ground\GroundManager.cs">
+    <Files>
+      <File FileName="Assets\Pickups\GemManager.cs" Line="21" Column="3" />
+      <File FileName="Assets\Managers\GameManager.cs" Line="14" Column="16" />
+      <File FileName="Assets\Runner\Runner.cs" Line="44" Column="2" />
+      <File FileName="Assets\Ground\GroundManager.cs" Line="89" Column="37" />
+      <File FileName="Assets\Managers\GuiManager.cs" Line="58" Column="2" />
+      <File FileName="Assets\Managers\ParticleManager.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
